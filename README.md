@@ -90,7 +90,8 @@ module ex8(a,clk,z);
 ![ex-8-d](https://github.com/user-attachments/assets/345effe4-7962-4cd1-8f5e-7419b7566958)
 
 **TIMING DIGRAMS FOR FLIP FLOPS**
-![ex-8-w](https://github.com/user-attachments/assets/dadb2a23-6b21-4391-afcc-f7491d77ee36)
+![Screenshot (86)](https://github.com/user-attachments/assets/0539cb30-3092-4d29-b0c8-843e6c57c048)
+
 
 
 **RESULTS**
